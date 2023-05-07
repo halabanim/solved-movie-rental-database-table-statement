@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-movie-rental-database-table-statement
+<br>
+CREATE TABLE statements for the tables in the Movie Rental Database. You will be responsible for writing the CREATE TABLE statements in the Movie Rental Database. Using the ER Diagram, Schema and, Metadata from the On Line Movie Rental assignments that you were working on in previous weeks, write the CREATE DATABASE and CREATE TABLE statements to create the physical database structure to hold the data for the Movie Rental Database. Make sure to include the CREATE DATABASE Statement at the beginning of the file and the DROP DATABASE Statement at the end of the script
